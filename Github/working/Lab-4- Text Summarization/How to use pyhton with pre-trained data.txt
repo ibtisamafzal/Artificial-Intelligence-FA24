@@ -1,6 +1,0 @@
-How to use pyhton for text pre-trained data:
-
-
-Extractive Summarization uisng Sumy_space spaces: 
-Extract exact same paragraphs from an article.
-
