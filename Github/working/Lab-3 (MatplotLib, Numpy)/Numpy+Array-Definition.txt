@@ -1,0 +1,12 @@
+Numpy:
+
+Fundamental package for scientific computing in pyhon.
+It provides a multi-dimensional array objects.
+It is faster than lists.
+Performs wide mathematical operations on array.
+
+
+Array:
+
+Array is a grid of values and it contains information about raw data.
+How to locate an element & how to interpet an element?

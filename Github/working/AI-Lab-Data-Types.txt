@@ -1,0 +1,7 @@
+object = record
+
+attribute = varibale
+
+sparcity = absent
+
+density = present
