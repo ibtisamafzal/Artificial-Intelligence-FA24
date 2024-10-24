@@ -1,0 +1,38 @@
+Knowledge Representation and Reasoning
+1. Script (Used mostly)
+
+
+
+Goals of Agents/ Intelligent Agents:
+1. High Performance
+2. Optimized Results
+3. Rational Action
+
+
+PEAS (Applies to every AI model/ agent)
+P: Performance
+E: Environment
+A: Action
+S: Sensor
+
+
+Types of agents:
+1. Simple Reflex Agents
+   . Acts only on the basis of current situation
+   . Ignore the rest of perception history based on rules.
+   . The environment should be fully observable
+2. Model-based Agents
+3. Goal-based agents
+4. Utility based agents
+5. Learning agents
+
+
+Other Theory Questions:
+GenAI Understanding
+Rational Agents
+Usecases of Hugging Face
+Text Summaization
+Rouge Score
+Fine-Tuning
+OpenCV
+Canny Edge (Short Question)
