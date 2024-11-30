@@ -1,0 +1,17 @@
+Types of Neural Networks
+
+Single layer feed forward NN
+
+Multilayer feed (Middle Hidden Layer) forward NN
+ - Computationally more stronger
+ - Hidden Layers
+
+Multilayer Perceptron (3 or more layers)
+ - To classify non linearly separable problems
+ - Use non linear activation function
+ - Connected Network
+
+Feedback ANN
+
+
+Activation Function
